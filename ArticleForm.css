@@ -1,0 +1,32 @@
+.Tags{
+  width: 1550px;
+    padding: 10px;
+    text-align: left;
+  }
+  .Abstract{
+    font-size: 16;
+    font-weight: Bold;
+  }
+
+    .Text {
+      width: 97%;
+      font-weight:bold;
+      padding: 12px;
+      font-size: 16px;
+      resize: vertical;
+      margin-bottom: 10px;
+    }
+  .titleBar{
+    font-weight: bold;
+  }
+    
+  
+    .Post-button {
+      display: flex;
+      width: 10%;
+      background-color: gray;
+      color: black;
+      font-size: 18px;
+      margin-left: 1250px;
+    }
+  
